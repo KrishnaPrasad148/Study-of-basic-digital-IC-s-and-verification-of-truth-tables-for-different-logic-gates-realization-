@@ -65,15 +65,17 @@ Developed by: Krishna Prasad.S
 
 RegisterNumber: 23013480 
 
-![all gate code sir](https://github.com/dharshan7200/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/138850116/008680c6-5448-4b34-b6b3-d29d0d233833)
+![image](https://github.com/KrishnaPrasad148/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/147332763/59105ea0-f8f9-4bbe-a6ef-3498d0528f13)
+
 # Logic symbol & Truthtable:
-![Screenshot 2023-11-26 095451](https://github.com/dharshan7200/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/138850116/9ce708f1-41d6-4935-8d16-3800fb7cf745)
+![image](https://github.com/KrishnaPrasad148/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/147332763/75cc4978-3c64-4ea0-999c-d2312be882c6)
 
 # RTL realization:
-![image](https://github.com/dharshan7200/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/138850116/4114f186-e9d1-4b97-bb78-a897b1524a95)
+![image](https://github.com/KrishnaPrasad148/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/147332763/3d574534-099b-4887-ae08-0c17a9043539)
 
 # Output:
-![image](https://github.com/dharshan7200/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/138850116/ff2c9e7a-e76b-4f3c-b09c-a0ae9d7f1af1)
+![image](https://github.com/KrishnaPrasad148/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/147332763/3f61172d-9d63-456c-9d93-9160970ee82a)
+
 
 # Result:
 Thus the different digital IC’s are studied and the truth table for different logic gates are verified.
